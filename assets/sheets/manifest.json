@@ -1,0 +1,310 @@
+{
+  "cell": [
+    32,
+    40
+  ],
+  "anchor": [
+    16,
+    38
+  ],
+  "scale": 2,
+  "sheets": {
+    "mario": {
+      "file": "mario.png",
+      "columns": 8,
+      "clips": {
+        "idle": {
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "seconds_per_frame": 0.18,
+          "loop": true
+        },
+        "run": {
+          "frames": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "seconds_per_frame": 0.085,
+          "loop": true
+        },
+        "jump": {
+          "frames": [
+            10,
+            11
+          ],
+          "seconds_per_frame": 0.12,
+          "loop": false
+        },
+        "double": {
+          "frames": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "seconds_per_frame": 0.06,
+          "loop": false
+        },
+        "fall": {
+          "frames": [
+            16,
+            17
+          ],
+          "seconds_per_frame": 0.14,
+          "loop": true
+        },
+        "land": {
+          "frames": [
+            18,
+            19,
+            20
+          ],
+          "seconds_per_frame": 0.06,
+          "loop": false
+        },
+        "damage": {
+          "frames": [
+            21,
+            22,
+            23
+          ],
+          "seconds_per_frame": 0.12,
+          "loop": false
+        },
+        "attack": {
+          "frames": [
+            24,
+            25,
+            26
+          ],
+          "seconds_per_frame": 0.1,
+          "loop": true
+        },
+        "transform": {
+          "frames": [
+            27,
+            28,
+            29
+          ],
+          "seconds_per_frame": 0.1,
+          "loop": true
+        },
+        "flag": {
+          "frames": [
+            30,
+            31,
+            32
+          ],
+          "seconds_per_frame": 0.1,
+          "loop": true
+        },
+        "climb": {
+          "frames": [
+            33,
+            34,
+            35
+          ],
+          "seconds_per_frame": 0.1,
+          "loop": true
+        },
+        "glide": {
+          "frames": [
+            36,
+            37,
+            38
+          ],
+          "seconds_per_frame": 0.1,
+          "loop": true
+        },
+        "dive": {
+          "frames": [
+            39,
+            40,
+            41
+          ],
+          "seconds_per_frame": 0.1,
+          "loop": true
+        }
+      }
+    },
+    "enemies": {
+      "file": "enemies.png",
+      "columns": 8,
+      "clips": {
+        "goomba": {
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "seconds_per_frame": 0.13,
+          "loop": true
+        },
+        "koopa": {
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "seconds_per_frame": 0.13,
+          "loop": true
+        },
+        "buzzy": {
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "seconds_per_frame": 0.13,
+          "loop": true
+        },
+        "paratroopa": {
+          "frames": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "seconds_per_frame": 0.13,
+          "loop": true
+        },
+        "bullet": {
+          "frames": [
+            16,
+            17,
+            18,
+            19
+          ],
+          "seconds_per_frame": 0.13,
+          "loop": true
+        },
+        "drybones": {
+          "frames": [
+            20,
+            21,
+            22,
+            23
+          ],
+          "seconds_per_frame": 0.13,
+          "loop": true
+        },
+        "fire": {
+          "frames": [
+            24,
+            25,
+            26,
+            27
+          ],
+          "seconds_per_frame": 0.13,
+          "loop": true
+        },
+        "pipe": {
+          "frames": [
+            28,
+            29,
+            30,
+            31
+          ],
+          "seconds_per_frame": 0.13,
+          "loop": true
+        },
+        "shell": {
+          "frames": [
+            32,
+            33,
+            34,
+            35
+          ],
+          "seconds_per_frame": 0.13,
+          "loop": true
+        },
+        "bones": {
+          "frames": [
+            36,
+            37,
+            38,
+            39
+          ],
+          "seconds_per_frame": 0.13,
+          "loop": true
+        },
+        "vent": {
+          "frames": [
+            40,
+            41,
+            42,
+            43
+          ],
+          "seconds_per_frame": 0.13,
+          "loop": true
+        }
+      }
+    },
+    "props": {
+      "file": "props.png",
+      "columns": 8,
+      "clips": {
+        "coin": {
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "seconds_per_frame": 0.09,
+          "loop": true
+        },
+        "flag": {
+          "frames": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "seconds_per_frame": 0.15,
+          "loop": true
+        },
+        "checkpoint": {
+          "frames": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "seconds_per_frame": 0.15,
+          "loop": true
+        },
+        "crystal": {
+          "frames": [
+            14,
+            15,
+            16,
+            17
+          ],
+          "seconds_per_frame": 0.2,
+          "loop": true
+        },
+        "cloud": {
+          "frames": [
+            18
+          ],
+          "seconds_per_frame": 1,
+          "loop": true
+        }
+      }
+    }
+  }
+}

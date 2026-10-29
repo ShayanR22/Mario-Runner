@@ -1,0 +1,12 @@
+{
+  "renderer": "Apple M5",
+  "pygame_ce": "2.5.8",
+  "world_1": "orientation, alpha, HUD and effects OK",
+  "world_2": "orientation, alpha, HUD and effects OK",
+  "world_3": "orientation, alpha, HUD and effects OK",
+  "world_4": "orientation, alpha, HUD and effects OK",
+  "resize": "OK",
+  "fullscreen": "enter, present, restore OK",
+  "uncapped_render_fps": 290.9,
+  "gl_error": "GL_NO_ERROR"
+}

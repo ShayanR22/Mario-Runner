@@ -1,0 +1,9 @@
+{
+  "archive": "Mario-Runner-Campaign.zip",
+  "crc": "passed",
+  "isolated_extracted_tests": "67 passed",
+  "extracted_software_smoke_frames": 3,
+  "excluded_personal_saves_and_environments": true,
+  "runner_python_sha256": "eb4a19e6140528622879fb1491d93237460cd2d9f41e698c7126d24961bb149e",
+  "notes": "Used the local Python 3.12 dependency environment against the extracted source; no clean-machine online installation was performed."
+}

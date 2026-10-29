@@ -11,6 +11,7 @@ A Python/pygame-ce platform runner with a continuous four-world campaign, ten tr
 Use Python **3.12 or newer**. On macOS, unzip the release and open **Play.command**. The launcher creates an isolated environment and installs the pinned packages on first launch; that first installation needs internet access. If macOS prevents opening a downloaded script, run these commands in Terminal instead:
 
 ```bash
+git clone https://github.com/ShayanR22/Mario-Runner.git mario-runner
 cd mario-runner
 python3 -m venv .venv
 source .venv/bin/activate

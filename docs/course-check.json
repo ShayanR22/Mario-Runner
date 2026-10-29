@@ -1,0 +1,128 @@
+{
+  "python": "3.12.14",
+  "pygame_ce": "2.5.8",
+  "simulation_hz": 120,
+  "runs": [
+    {
+      "world": 1,
+      "jump_lead_seconds": 0.27,
+      "seconds": 48.02,
+      "score": 11000,
+      "medal": "SILVER",
+      "coins": 22,
+      "powerups": false,
+      "flag_bonus": 3000
+    },
+    {
+      "world": 1,
+      "jump_lead_seconds": 0.3,
+      "seconds": 48.02,
+      "score": 11000,
+      "medal": "SILVER",
+      "coins": 22,
+      "powerups": false,
+      "flag_bonus": 3000
+    },
+    {
+      "world": 1,
+      "jump_lead_seconds": 0.34,
+      "seconds": 48.02,
+      "score": 16500,
+      "medal": "GOLD",
+      "coins": 33,
+      "powerups": false,
+      "flag_bonus": 3000
+    },
+    {
+      "world": 2,
+      "jump_lead_seconds": 0.27,
+      "seconds": 45.02,
+      "score": 11000,
+      "medal": "SILVER",
+      "coins": 22,
+      "powerups": false,
+      "flag_bonus": 3000
+    },
+    {
+      "world": 2,
+      "jump_lead_seconds": 0.3,
+      "seconds": 45.02,
+      "score": 11000,
+      "medal": "SILVER",
+      "coins": 22,
+      "powerups": false,
+      "flag_bonus": 3000
+    },
+    {
+      "world": 2,
+      "jump_lead_seconds": 0.34,
+      "seconds": 45.02,
+      "score": 16500,
+      "medal": "GOLD",
+      "coins": 33,
+      "powerups": false,
+      "flag_bonus": 3000
+    },
+    {
+      "world": 3,
+      "jump_lead_seconds": 0.27,
+      "seconds": 42.38,
+      "score": 16500,
+      "medal": "GOLD",
+      "coins": 33,
+      "powerups": false,
+      "flag_bonus": 3000
+    },
+    {
+      "world": 3,
+      "jump_lead_seconds": 0.3,
+      "seconds": 42.38,
+      "score": 16500,
+      "medal": "GOLD",
+      "coins": 33,
+      "powerups": false,
+      "flag_bonus": 3000
+    },
+    {
+      "world": 3,
+      "jump_lead_seconds": 0.34,
+      "seconds": 42.38,
+      "score": 16500,
+      "medal": "GOLD",
+      "coins": 33,
+      "powerups": false,
+      "flag_bonus": 3000
+    },
+    {
+      "world": 4,
+      "jump_lead_seconds": 0.27,
+      "seconds": 40.02,
+      "score": 11500,
+      "medal": "SILVER",
+      "coins": 23,
+      "powerups": false,
+      "flag_bonus": 3000
+    },
+    {
+      "world": 4,
+      "jump_lead_seconds": 0.3,
+      "seconds": 40.02,
+      "score": 11000,
+      "medal": "SILVER",
+      "coins": 22,
+      "powerups": false,
+      "flag_bonus": 3000
+    },
+    {
+      "world": 4,
+      "jump_lead_seconds": 0.34,
+      "seconds": 40.02,
+      "score": 13500,
+      "medal": "GOLD",
+      "coins": 27,
+      "powerups": false,
+      "flag_bonus": 3000
+    }
+  ],
+  "note": "Deterministic automated single-jump encounter policy; final pole double jump enabled. Human play remains necessary for subjective difficulty."
+}
